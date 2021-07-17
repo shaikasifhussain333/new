@@ -5,3 +5,5 @@ hello git
  i am good at coding now
  
  don't tell anyone .
+
+but i am not done with git i need to learn more
